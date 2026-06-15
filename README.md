@@ -1,4 +1,4 @@
-# Task 2 - Exploratory Data Analysis ( EDA ) & Business Intelligence
+## Exploratory Data Analysis ( EDA ) & Business Intelligence
 
 This Repository contain the complete working process for **Task-2** , 
        Where I Performed Exploratory Data Analysis (EDA) , Executed SQL Business Queries , Conducted Multivariate Analysis , Built Static Dashboard Using **Walmart Retail Sales Dataset**.
