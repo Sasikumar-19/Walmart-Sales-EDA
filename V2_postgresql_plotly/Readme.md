@@ -154,4 +154,4 @@ Python · PostgreSQL · SQLAlchemy · psycopg2 · Plotly · Pandas · NumPy · p
  
 ## Related
 - [v1 — Original internship EDA](https://github.com/Sasikumar-19/Walmart-Sales-EDA/blob/main/V1_Original/README.md)
-- [v3 — ML Forecasting (built on v2's engineered features)](../v3_ml_forecasting/README.md)
+- [v3 — ML Forecasting (built on v2's engineered features)](https://github.com/Sasikumar-19/Walmart-Sales-EDA/blob/main/V3_ml_forecasting/Readme.md)
