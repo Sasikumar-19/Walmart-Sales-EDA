@@ -126,14 +126,6 @@ jupyter notebook v3_ml_forecasting/EDA_v3_ML_Forecasting.ipynb
 | Jupyter | Analysis environment |
  
 ---
- 
-## Dataset
- 
-**Walmart Store Sales** — 45 US retail stores, weekly sales data, Feb 2010–Oct 2012.  
-6,435 rows · 8 columns (Store, Date, Weekly_Sales, Holiday_Flag, Temperature, Fuel_Price, CPI, Unemployment)
- 
-Source: [Kaggle — Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
- 
 ### Feature Engineering (10 new columns)
  
 All features engineered **per store** (using `groupby` + `transform`) so that
