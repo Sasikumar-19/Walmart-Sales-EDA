@@ -57,5 +57,5 @@ dataset forecasting-ready (used directly in EDA v3).
 Python · PostgreSQL · SQLAlchemy · psycopg2 · Plotly · Pandas · NumPy · python-dotenv · Jupyter
  
 ## Related
-- [v1 — Original internship EDA](../v1_original/README.md)
+- [v1 — Original internship EDA](V1_Original/README.md)
 - [v3 — ML Forecasting (built on v2's engineered features)](../v3_ml_forecasting/README.md)
